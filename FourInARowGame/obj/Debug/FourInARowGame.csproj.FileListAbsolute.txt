@@ -1,0 +1,12 @@
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowGame.dll.config
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowGame.dll
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowGame.pdb
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowLogic.dll
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowLogic.pdb
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\bin\Debug\FourInARowLogic.dll.config
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\FourInARowGame.csproj.AssemblyReference.cache
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\FourInARowGame.csproj.CoreCompileInputs.cache
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\FourInARowGame.dll
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\FourInARowGame.pdb
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\DesktopApplication.FormBoard.resources
+C:\Users\Eden\OneDrive\שולחן העבודה\תואר ראשון מדעי המחשב\שנה ג\design pattern\new Ex03\FourInARowGame\obj\Debug\FourInARowGame.csproj.GenerateResource.cache
